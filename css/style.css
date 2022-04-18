@@ -1,0 +1,44 @@
+section { 
+    display: flex;
+    width: 100px;
+    justify-content: space-between;
+}
+
+body { 
+    background-image: url("squid-game.jpeg");
+    background-repeat: none;
+    display: flex;
+    flex-direction: column;
+}
+
+/* h1 { 
+    font-family: 'Anton', sans-serif;
+} */
+
+h1, h2, form, .score { 
+    align-self: center;
+    font-family: 'Rock Salt'; 
+
+
+}
+
+h1 { 
+    font-size: 4rem;
+    color: darkred;
+    font-family: 'Rock Salt'; 
+}
+
+h2 { 
+    margin-top: -3%;
+}
+
+.gamble { 
+    width: 8rem;
+    height: 40px;
+    font-family: 'Rock Salt';
+    top: 50%;
+    background-color: black;
+    color: white;
+    border: none;
+    
+}
