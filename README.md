@@ -1,4 +1,11 @@
-# ** Slot Machine **
+#Squid Games 
+
+This is a slot machine web application. The user is alotted $1,000 and can choose to bet $5 or $50 to see if luck is in their favor. The user will win if three numbers match. 
+
+
+![Screen Shot 2022-04-25 at 1 17 22 PM](https://user-images.githubusercontent.com/102008028/165140205-b5a73f51-fea4-4027-9717-3a9d40bf08ef.png)
+
+
 
 
 
