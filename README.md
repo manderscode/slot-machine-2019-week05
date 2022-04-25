@@ -1,4 +1,4 @@
-#Squid Games 
+# H1 Squid Games 
 
 This is a slot machine web application. The user is alotted $1,000 and can choose to bet $5 or $50 to see if luck is in their favor. The user will win if three numbers match. 
 
