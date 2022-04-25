@@ -13,6 +13,7 @@ This was created using HTML5, CSS3, and JavaScript.
 
 It was a challenge as a group to write the JavaScript out to ensure this slot machine works properly. One of the biggest issues we encountered was concatenation of our total amount displayed after the user chose to bet either $5 or $50. I enjoyed collaborating on this assignment a lot because multiple brains are better than one.
 
+## Assignment Guidelines Below: 
 
 # 🎰 Week05 Bootcamp2019 Project: Slot Machine
 
