@@ -1,15 +1,15 @@
-# H1 Squid Games 
+# Squid Games 
 
 This is a slot machine web application. The user is alotted $1,000 and can choose to bet $5 or $50 to see if luck is in their favor. The user will win if three numbers match. 
 
 
 ![Screen Shot 2022-04-25 at 1 17 22 PM](https://user-images.githubusercontent.com/102008028/165140205-b5a73f51-fea4-4027-9717-3a9d40bf08ef.png)
 
-## H2 Languages Used 
+## Languages Used 
 
 This was created using HTML5, CSS3, and JavaScript. 
 
-### H3 Lessons Learned 
+## Lessons Learned 
 
 It was a challenge as a group to write the JavaScript out to ensure this slot machine works properly. One of the biggest issues we encountered was concatenation of our total amount displayed after the user chose to bet either $5 or $50. I enjoyed collaborating on this assignment a lot because multiple brains are better than one.
 
